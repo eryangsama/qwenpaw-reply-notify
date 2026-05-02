@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.pyo
+audio_b64.txt
